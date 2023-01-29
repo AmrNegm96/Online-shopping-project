@@ -1,0 +1,22 @@
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\bin\Debug\myform.exe.config
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\bin\Debug\myform.exe
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\bin\Debug\myform.pdb
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.AssemblyReference.cache
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.SuggestedBindingRedirects.cache
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.Form1.resources
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.Properties.Resources.resources
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.GenerateResource.cache
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.CoreCompileInputs.cache
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.exe
+D:\MY ITI\10- UML\UML project\implementation\form_admin_product\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.pdb
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\bin\Debug\myform.exe.config
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\bin\Debug\myform.exe
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\bin\Debug\myform.pdb
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.AssemblyReference.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.SuggestedBindingRedirects.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.Form1.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.Properties.Resources.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.GenerateResource.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.csproj.CoreCompileInputs.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.exe
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\form_admin_product\form_admin_product\myform\myform\obj\Debug\myform.pdb
