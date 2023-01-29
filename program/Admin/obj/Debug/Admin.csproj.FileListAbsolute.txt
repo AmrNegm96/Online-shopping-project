@@ -1,0 +1,16 @@
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\bin\Debug\Admin.exe.config
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\bin\Debug\Admin.exe
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\bin\Debug\Admin.pdb
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.csproj.SuggestedBindingRedirects.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.exe
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.pdb
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.AdminTasksForm.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.LoginForm.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\bin\Debug\Categories.exe
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\bin\Debug\Categories.pdb
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\bin\Debug\Categories.exe.config
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Admin\obj\Debug\Admin.csproj.CopyComplete
