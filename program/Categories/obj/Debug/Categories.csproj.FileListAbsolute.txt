@@ -1,0 +1,13 @@
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\bin\Debug\Categories.exe.config
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\bin\Debug\Categories.exe
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\bin\Debug\Categories.pdb
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.csproj.AssemblyReference.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.csproj.SuggestedBindingRedirects.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.AddCategory.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.DeleteCategories.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.Properties.Resources.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.UpdateCategory.resources
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.csproj.GenerateResource.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.csproj.CoreCompileInputs.cache
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.exe
+H:\ITI\GitHup\ITI_Projects\UML\Implementation\Forms\Admin\Categories\obj\Debug\Categories.pdb
